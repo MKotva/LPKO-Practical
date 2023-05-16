@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LPPracticalHW2": {
+      "commandName": "Project",
+      "commandLineArgs": "Testing"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\bin\Debug\net6.0\LPPractical.exe
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\bin\Debug\net6.0\LPPractical.deps.json
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\bin\Debug\net6.0\LPPractical.runtimeconfig.json
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\bin\Debug\net6.0\LPPractical.dll
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\bin\Debug\net6.0\LPPractical.pdb
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.csproj.AssemblyReference.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.AssemblyInfoInputs.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.AssemblyInfo.cs
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.csproj.CoreCompileInputs.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.dll
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\refint\LPPractical.dll
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.pdb
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\LPPractical.genruntimeconfig.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPractical\obj\Debug\net6.0\ref\LPPractical.dll

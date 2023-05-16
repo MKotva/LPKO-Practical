@@ -1,0 +1,8 @@
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\bin\Debug\LPPPracticalHW1.exe.config
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\bin\Debug\LPPPracticalHW1.exe
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\bin\Debug\LPPPracticalHW1.pdb
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\obj\Debug\LPPPracticalHW1.csproj.AssemblyReference.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\obj\Debug\LPPPracticalHW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\obj\Debug\LPPPracticalHW1.csproj.CoreCompileInputs.cache
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\obj\Debug\LPPPracticalHW1.exe
+C:\Users\mkotv\source\repos\LPPractical\LPPPracticalHW1\obj\Debug\LPPPracticalHW1.pdb
